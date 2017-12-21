@@ -68,11 +68,7 @@ img:nth-child(2) {
     width: 24%;
   }
 
-  img:nth-child(4) {
-    display: inline-block;
-  }
-
-  img:nth-child(2) {
+  img:nth-child(1) {
     display: inline-block;
   }
 
